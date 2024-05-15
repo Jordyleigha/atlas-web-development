@@ -6,7 +6,7 @@
 
   General
   * What is HTML? <p>HTML is the standard markup language used to create web pages. It is the backbone of a website, providing the structure and content that the web browser renders to the user</p>
-  * How to create an HTML page from a wireframe. <p>To create an HTML page from a wireframe, you generally use tags like '<div>', '<span>', and '<img>' to translate the layout and features specified in the wireframe into HTML code.</p>
+  * How to create an HTML page from a wireframe. <p>To create an HTML page from a wireframe, you generally use tags like <div>, <span>, and <img> to translate the layout and features specified in the wireframe into HTML code.</p>
   * What is a markup language? <p>A markup language is a system for annotating text or other content with tags that define its structure, formatting, or other attributes.</p>
   * What is the DOM? <p>DOM stands for Document Object Model. It is a programming interface for web documents that allows developers to manipulate the content, structure, and style of a web page using JavaScript or other programming languages.</p>
   * What is an element / tag? <p>An element is a unit of text or other content that is marked up with a tag. The tag defines the type of element and may include additional attributes that provide further information about the element.</p>
