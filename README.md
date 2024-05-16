@@ -17,7 +17,7 @@
 <h6>The web application's entry point is the main index.html file, which is structured as the project's central file and is situated in the html_advanced directory. This file features different sections, including a header, a main content area, and a footer, thereby serving as the foundation for the entire web application.</h6>
 
 <h2 align="center">Figma<b></h2>
-<h3> The figma file can be acessed [here].
+<h3> The figma file can be acessed [here].</h3>
 <h2>The blueprint for the web application is derived from the project design, which was developed using Figma, a widely-used design tool for creating user interfaces. This designer file meticulously outlines the layout, color scheme, typography, and interactive components, providing precise instructions for implementing the design in the HTML and CSS code.</h2>
 
   [here]: https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage
