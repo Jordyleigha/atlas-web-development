@@ -19,5 +19,5 @@
 <h2 align="center">Figma<b></h2>
 <h3>[Figma File](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage
 )</h3>
-<h2>The blueprint for the web application is derived from the project design, which was developed using Figma, a widely-used design tool for creating user interfaces. This designer file meticulously outlines the layout, color scheme, typography, and interactive components, providing precise instructions for implementing the design in the HTML and CSS code.</h2>
+<h4>The blueprint for the web application is derived from the project design, which was developed using Figma, a widely-used design tool for creating user interfaces. This designer file meticulously outlines the layout, color scheme, typography, and interactive components, providing precise instructions for implementing the design in the HTML and CSS code.</h4>
 
