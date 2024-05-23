@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'Source Sans Pro-Bold';
+    src: url(fonts/SourceSansPro-Bold.otf);
+}
+
+@font-face {
+    font-family: 'Source Sans Pro-Semibold';
+    src: url(fonts/SourceSansPro-Semibold.otf);
+}
+
+@font-face {
+    font-family: 'Source Sans Pro-Regular';
+    src: url(fonts/SourceSansPro-Regular.otf);
+}
+
+@font-face {
+    font-family: 'Source Sans Pro-Extralight';
+    src: url(fonts/SourceSansPro-ExtraLight.otf);
+}
+
+@font-face {
+    font-family: 'Source Sans Pro-Light';
+    src: url(fonts/SourceSansPro-Light.otf);
+}
+
+@font-face {
+    font-family: 'Source Sans Pro-Black';
+    src: url(fonts/SourceSansPro-Black.otf);
+}
+
+@font-face {
+    font-family: 'Source Sans Pro-It';
+    src: url(fonts/SourceSansPro-It.otf);
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    display: flex;
+    padding: 100px;
+    flex-direction: column;
+    background-image: url('images/background.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header {
+    display: flex;
+    padding: 10px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: right;
+}
+
+.menu {
+    align-items: right;
+    word-spacing: 52px;
+}
+
+.logo {
+    align-items: left;
+}
+
+.menu a {
+    color: #FFF;
+    font-family: 'Source Sans Pro', 'helvetica';
+    font-weight: 700;
+    font-size: 12px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.top-banner h1 {
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Source Sans Pro-Bold';
+    font-size: 120px;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.three-words {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.three-words p {
+    font-family: 'Source Sans Pro-SemiBold';
+    color: #FFF;
+    font-size: 16px;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #c271ff;
+    border: none;
+    border-radius: 22px;
+    padding: 20px;
+    color: white;
+    font-family: 'Source Sans Pro-Semibold';
+    font-weight: 400;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    margin: 4px 2px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.highlight {
+    color: #c271ff;
+    font-family: 'Source Sans Pro-Semibold';
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40.22px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.bottom-banner {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom-banner h2 {
+    color: #FFF;
+    font-family: 'Source Sans Pro-ExtraLight';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+    margin-top: 200px;
+}
